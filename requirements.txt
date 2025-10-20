@@ -1,0 +1,7 @@
+streamlit
+google-genai
+Pillow
+bcrypt
+psycopg2-binary
+SQLAlchemy
+python-dotenv
